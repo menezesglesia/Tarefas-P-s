@@ -1,21 +1,21 @@
-Country_name;Regional_in;Ladder_score;GDP
-Swaziland;Sub-Saharan Africa;4.308;9.065
-Comoros;Sub-Saharan Africa;4.289;8.031
-Egypt;Middle East and North Africa;4.283;9.367
-Ethiopia;Sub-Saharan Africa;4.275;7.694
-Mauritania;Sub-Saharan Africa;4.227;8.542
-Madagascar;Sub-Saharan Africa;4.208;7.396
-Togo;Sub-Saharan Africa;4.107;7.362
-Zambia;Sub-Saharan Africa;4.073;8.145
-Sierra Leone;Sub-Saharan Africa;3.849;7.434
-India;South Asia;3.819;8.755
-Burundi;Sub-Saharan Africa;3.775;6.635
-Yemen;Middle East and North Africa;3.658;7.578
-Tanzania;Sub-Saharan Africa;3.623;7.876
-Haiti;Latin America and Caribbean;3.615;7.477
-Malawi;Sub-Saharan Africa;3.600;6.958
-Lesotho;Sub-Saharan Africa;3.512;7.926
-Botswana;Sub-Saharan Africa;3.467;9.782
-Rwanda;Sub-Saharan Africa;3.415;7.676
-Zimbabwe;Sub-Saharan Africa;3.145;7.943
-Afghanistan;South Asia;2.523;7.695
+Country_id;Country_name;Regional_in;Ladder_score;GDP
+1;Swaziland;Sub-Saharan Africa;4.308;9.065
+2;Comoros;Sub-Saharan Africa;4.289;8.031
+3;Egypt;Middle East and North Africa;4.283;9.367
+4;Ethiopia;Sub-Saharan Africa;4.275;7.694
+5;Mauritania;Sub-Saharan Africa;4.227;8.542
+6;Madagascar;Sub-Saharan Africa;4.208;7.396
+7;Togo;Sub-Saharan Africa;4.107;7.362
+8;Zambia;Sub-Saharan Africa;4.073;8.145
+9;Sierra Leone;Sub-Saharan Africa;3.849;7.434
+10;India;South Asia;3.819;8.755
+11;Burundi;Sub-Saharan Africa;3.775;6.635
+12;Yemen;Middle East and North Africa;3.658;7.578
+13;Tanzania;Sub-Saharan Africa;3.623;7.876
+14;Haiti;Latin America and Caribbean;3.615;7.477
+15;Malawi;Sub-Saharan Africa;3.600;6.958
+16;Lesotho;Sub-Saharan Africa;3.512;7.926
+17;Botswana;Sub-Saharan Africa;3.467;9.782
+18;Rwanda;Sub-Saharan Africa;3.415;7.676
+19;Zimbabwe;Sub-Saharan Africa;3.145;7.943
+20;Afghanistan;South Asia;2.523;7.695
