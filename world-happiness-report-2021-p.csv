@@ -1,4 +1,4 @@
-Country_id;Country_name;Regional_in;Ladder_score;GDP
+pais_id;pais_name;Regional_in;Ladder_score;GDP
 1;Swaziland;Sub-Saharan Africa;4.308;9.065
 2;Comoros;Sub-Saharan Africa;4.289;8.031
 3;Egypt;Middle East and North Africa;4.283;9.367
